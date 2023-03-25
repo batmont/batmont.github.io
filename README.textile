@@ -1,6 +1,4 @@
-# releases
-
-tuning MIUI with no root
+tuning MIUI / no root
 
 Disable Play market autoupdate before loggin-in via access to all apps list
 https://github.com/butzist/ActivityLauncher/releases/tag/1.14.4
