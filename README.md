@@ -12,7 +12,7 @@ https://auroraoss.com/
 MIUI users may experience crashes when installing updates. This is because MIUI has broke the package installer. Please turn off MIUI optimization and try again or manually download the APK to update.
 * It should be fixed in MIUI 13.
 
-Checks apps for code signatures of known trackers (provided by Exodus)
+Checks apps for code signatures of known trackers (provided by Exodus) 
 Свежие dev версии: https://bitbucket.org/oF2pks/fdroid-classyshark3xodus/downloads/
 
 This is an H1 header size
