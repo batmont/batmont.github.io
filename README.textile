@@ -4,7 +4,7 @@ Disable Play market (to prevent apps autoupdate before loggin-in) in 'All apps' 
 https://github.com/butzist/ActivityLauncher/
 (Removed in 1.14.4 ru-RU language support restored by https://github.com/Roker2/ActivityLauncher/releases)
 
-A Google Play store unofficial client, also can log in with an anonymous account 
+A Google Play store unofficial client, can log in with an anonymous account 
 Exodus integration — Instantly see trackers an app is hiding in its code
 https://gitlab.com/AuroraOSS/AuroraStore/-/releases
 https://auroraoss.com/
@@ -18,13 +18,12 @@ dev versions: https://bitbucket.org/oF2pks/fdroid-classyshark3xodus/downloads/
 This is an H1 header size
 https://github.com/organicmaps/organicmaps/releases
 
-work profile (built-in android feature) as sandbox
-an isolated space that you can install or clone apps into
-Also since user apps can't be frozen without root, you can freeze them / their clones in work profile
-Shelter
+Since user apps can't be frozen without root, you can freeze them / their clones in work profile (built-in android feature)
+Also use work profile as sandbox, an isolated space that you can install or clone apps into
+* Shelter
 https://github.com/PeterCxy/Shelter
 https://play.google.com/store/apps/details?id=net.typeblog.shelter
-Island 
+* Island 
 https://github.com/oasisfeng/island
 Brand new two-way File Shuttle without the need for ADB.
 Just select "Personal / Work Profile" in the SAF "Select location" dialog. 
