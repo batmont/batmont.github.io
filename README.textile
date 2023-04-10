@@ -1,5 +1,6 @@
 no-root tuning / some MIUI tips
 
+bc..
 Disable some preinstalled apps:
 * mostly works for GApps or Play market (to prevent apps autoupdate without signing in Play market, but google services receive autoupdates even after logging in and disabling apps autoupdate)
 * but mostly not for OEM apps
@@ -22,6 +23,7 @@ dev versions: https://bitbucket.org/oF2pks/fdroid-classyshark3xodus/downloads/
 This is an H1 header size
 https://github.com/organicmaps/organicmaps/releases
 
+bc.
 Since user apps can't be frozen without root, you can freeze them / their clones in work profile (built-in android feature)
 Also use work profile as sandbox, an isolated space that you can install or clone apps into
 * Shelter
