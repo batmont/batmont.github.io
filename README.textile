@@ -1,10 +1,9 @@
 no-root tuning / some MIUI tips
 
-bc.
-Disable some preinstalled apps:
+
+bc. Disable some preinstalled apps:
 * mostly works for GApps or Play market (to prevent apps autoupdate without signing in Play market, but google services receive autoupdates even after logging in and disabling apps autoupdate)
 * but mostly not for OEM apps
-p.
 
 in 'All apps' list (anyway remained AOSP-styled in MIUI) by launching its shortcut via
 https://github.com/butzist/ActivityLauncher/
