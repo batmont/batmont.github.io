@@ -1,8 +1,9 @@
 no-root tuning / some MIUI tips
 
 Disable some preinstalled apps:
-* mostly works for GApps or Play market (to prevent apps autoupdate without signing in Play market, but services receive autoupdates even after logging in and disabling apps autoupdate)
+* mostly works for GApps or Play market (to prevent apps autoupdate without signing in Play market, but google services receive autoupdates even after logging in and disabling apps autoupdate)
 * but mostly not for OEM apps
+
 in 'All apps' list (anyway remained AOSP-styled in MIUI) by launching its shortcut via
 https://github.com/butzist/ActivityLauncher/
 (Removed in 1.14.4 ru-RU language support restored by https://github.com/Roker2/ActivityLauncher/releases)
