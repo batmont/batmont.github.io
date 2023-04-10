@@ -34,7 +34,7 @@ Brand new two-way File Shuttle without the need for ADB.
 Just select "Personal / Work Profile" in the SAF "Select location" dialog. 
 Storage Access Framework
 
-bq.
+bq. 
 Bringing AOSP style
 * Neo Launcher (ex. Omega Launcher)
 https://github.com/NeoApplications/Neo-Launcher/releases
