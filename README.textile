@@ -1,4 +1,4 @@
-no root tuning / some MIUI tips
+no-root tuning / some MIUI tips
 
 Disable some preinstalled apps:
 * mostly works for GApps or Play market (to prevent apps autoupdate without signing in Play market, but services receive autoupdates even after logging in and disabling apps autoupdate)
