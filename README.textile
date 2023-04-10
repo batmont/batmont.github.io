@@ -4,6 +4,7 @@ bc.
 Disable some preinstalled apps:
 * mostly works for GApps or Play market (to prevent apps autoupdate without signing in Play market, but google services receive autoupdates even after logging in and disabling apps autoupdate)
 * but mostly not for OEM apps
+p.
 
 in 'All apps' list (anyway remained AOSP-styled in MIUI) by launching its shortcut via
 https://github.com/butzist/ActivityLauncher/
@@ -34,7 +35,7 @@ https://github.com/oasisfeng/island
 Brand new two-way File Shuttle without the need for ADB.
 Just select "Personal / Work Profile" in the SAF "Select location" dialog. 
 Storage Access Framework
-
+p.
 Bringing AOSP style
 * Neo Launcher (ex. Omega Launcher)
 https://github.com/NeoApplications/Neo-Launcher/releases
