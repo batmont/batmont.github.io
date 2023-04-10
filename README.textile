@@ -1,7 +1,5 @@
 no-root tuning / some MIUI tips
 
-
-bq. 
 Disable some preinstalled apps:
 * mostly works for GApps or Play market (to prevent apps autoupdate without signing in Play market, but google services receive autoupdates even after logging in and disabling apps autoupdate)
 * but mostly not for OEM apps
@@ -15,7 +13,8 @@ Exodus integration — Instantly see trackers an app is hiding in its code
 https://gitlab.com/AuroraOSS/AuroraStore/-/releases
 https://auroraoss.com/
 
-* MIUI users may experience crashes when installing apk splits. This is because MIUI has broke the package installer. Please turn off MIUI optimization and try again or manually download the APK to update.
+bq. 
+MIUI users may experience crashes when installing apk splits. This is because MIUI has broke the package installer. Please turn off MIUI optimization and try again or manually download the APK to update.
 It should be fixed in MIUI 13.
 
 Checks apps for code signatures of known trackers (provided by Exodus) 
@@ -24,7 +23,6 @@ dev versions: https://bitbucket.org/oF2pks/fdroid-classyshark3xodus/downloads/
 This is an H1 header size
 https://github.com/organicmaps/organicmaps/releases
 
-bc.
 Since user apps can't be frozen without root, you can freeze them / their clones in work profile (built-in android feature)
 Also use work profile as sandbox, an isolated space that you can install or clone apps into
 * Shelter
@@ -35,7 +33,8 @@ https://github.com/oasisfeng/island
 Brand new two-way File Shuttle without the need for ADB.
 Just select "Personal / Work Profile" in the SAF "Select location" dialog. 
 Storage Access Framework
-p.
+
+bq.
 Bringing AOSP style
 * Neo Launcher (ex. Omega Launcher)
 https://github.com/NeoApplications/Neo-Launcher/releases
@@ -43,6 +42,7 @@ https://apt.izzysoft.de/fdroid/index/apk/com.saggitt.omega
 * Tested
 https://play.google.com/store/apps/details?id=com.pearlauncher.pearlauncher
 
+bq. 
 Play in background
 Deprecated
 https://github.com/stephane-r/HoloPlay/releases
